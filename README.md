@@ -118,43 +118,100 @@ STEP 6 (DISCONNECTING AND REMOVING OPTICAL & FLOPPY DRIVE): <br/>
 <p align="center">We proceeded to remove the floppy cable that connected the floppy disc drive to the motherboard. We began by removing the cable from the floppy drive, then proceeded on to the motherboard, as seen in the second image, to detach and remove the cable from the primary and secondary channels, which are coloured black and blue, respectively. Once we detached all of the cables, we were able to easily remove the floppy drive from the case without it getting stuck.</p>
 
 
+<hr width="100%" size="2">
+
+<br />
+
+<p align="center"> 
+STEP 7 (REMOVING RAM): <br/>
+<img src="https://i.imgur.com/TkOjBwY.png" height="75%" width="75%"/> </p>
+
+
+<p align="center">We then proceeded to remove the RAM, which required only pulling the white clips to the left and right, and we were able to successfully remove the RAM from the motherboard. It was really easy to remove, and we didn't have to use any force.</p>
 
 
 
 
+<hr width="100%" size="2">
+
+<br />
+
+<p align="center"> 
+STEP 8 (REMOVING USB/AUDIO CABLES): <br/>
+<img src="https://i.imgur.com/iDnR596.png" height="75%" width="75%"/> </p>
+
+<br />
+
+<p align="center"> 
+<img src="https://i.imgur.com/GV5m3vY.png" height="75%" width="75%"/> </p>
+
+
+<p align="center">We then proceeded to remove the USB and audio cables that were connected to the motherboard. These wires connect the front and back panels to the motherboard, providing power to ensure correct operation. They came off easily, and we pulled them lightly. On the final image, you can see all of the AUDIO/USB cables that we successfully removed.</p>
 
 
 
+<hr width="100%" size="2">
+
+<br />
+
+<p align="center"> 
+STEP 9 (REMOVING MOTHERBOARD): <br/>
+<img src="https://i.imgur.com/uGvNwRh.png" height="75%" width="75%"/> </p>
+
+<br />
+
+<p align="center"> 
+<img src="https://i.imgur.com/8B0ngPw.png" height="30%" width="30%"/> </p>
+
+
+<p align="center">We proceeded to remove the motherboard from the PC case. The first thing we did was remove the screws from the motherboard using the screwdriver. There were a few screws attached, which we successfully removed. Once that was done, we were able to easily remove the motherboard from the case, as shown in the last two images. This part was simple and took little time to complete.</p>
 
 
 
+<hr width="100%" size="2">
+
+<br />
+
+<p align="center"> 
+STEP 10 (REMOVING FAN & HEAT SINK): <br/>
+<img src="https://i.imgur.com/VawzA51.png" height="75%" width="75%"/> </p>
+
+<br />
+
+<p align="center"> 
+<img src="https://i.imgur.com/Z6hSlNf.png" height="30%" width="30%"/> </p>
 
 
+<p align="center">We proceeded to remove the fan and heat sink because they were both attached together. Before removing it, we had to unplug the fan cable from the motherboard. After that, we had to pull the fan stands from all four sides, and we were able to successfully remove the fan and heatsink from the CPU and motherboard.</p>
 
 
+<hr width="100%" size="2">
+
+<br />
+
+<p align="center"> 
+STEP 11 (REMOVING CPU): <br/>
+<img src="https://i.imgur.com/7ETl2kT.png" height="75%" width="75%"/> </p>
+
+<br />
+
+<p align="center"> 
+<img src="https://i.imgur.com/CjCUGRG.png" height="30%" width="30%"/> </p>
 
 
+<p align="center">We then proceeded to remove the CPU which was the last remaining component linked to the motherboard. We removed it by carefully lifting the lever up and out of the socket. It was simple and took only a few seconds to complete.</p>
 
 
+<hr width="100%" size="2">
+
+<br />
+
+<p align="center"> 
+STEP 12 (COMPUTER AFTER REMOVING ALL THE COMPONENTS): <br/>
+<img src="https://i.imgur.com/Qzmt9EQ.png" height="70%" width="70%"/> </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">This is how the computer appears after removing all of the components and cables. All of the components and cables, as well as the case, have been moved to the side.</p>
 
 
 
